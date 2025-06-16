@@ -275,6 +275,16 @@ function DashBoard() {
               SIT Family
             </a>
           </div>
+          <div className="flex justify-center space-x-4 text-sm">
+
+            <a
+                href="mailto:siravij.prae@mail.kmutt.ac.th"
+                className="hover:text-blue-300 transition-colors"
+            >
+              Powered by IOT Smart Cam Team, Contact siravij.prae@mail.kmutt.ac.th for recommendation
+            </a>
+
+          </div>
         </footer>
 
       </div>
