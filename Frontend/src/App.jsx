@@ -303,7 +303,7 @@ function App() {
       </main>
 
       {/* Footer */}
-      <footer className="w-full bg-gray-900 text-white p-8 text-center shadow-inner">
+      <footer className="w-full bg-[#336699] text-white p-8 text-center shadow-inner">
         <div className="flex justify-center mb-4">
           <img
             src={logonav}
