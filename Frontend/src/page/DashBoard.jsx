@@ -42,7 +42,7 @@ function DashBoard() {
               </div>
               <div className="p-2">
                 <iframe
-                    src="https://seat-mon.sit.kmutt.ac.th/d-solo/aeku7hva3ypdsa/sit-2-floor?orgId=1&from=1746336060961&to=1746336196118&timezone=browser&panelId=10&__feature.dashboardSceneSolo"
+                    src="https://seat-mon.sit.kmutt.ac.th/d-solo/aeku7hva3ypdsa/sit-2-floor?orgId=1?orgId=1&amp;theme=light&amp;panelId=10&refresh=1m"
                     width="100%"
                     height="300"
                     className="rounded-lg"
@@ -62,7 +62,7 @@ function DashBoard() {
               </div>
               <div className="p-3">
                 <iframe
-                    src="https://seat-mon.sit.kmutt.ac.th/d-solo/aeku7hva3ypdsa/sit-2-floor?orgId=1&from=1746334979895&to=1746335110446&timezone=browser&panelId=9&__feature.dashboardSceneSolo"
+                    src="https://seat-mon.sit.kmutt.ac.th/d-solo/aeku7hva3ypdsa/sit-2-floor?orgId=1&amp;theme=light&amp;panelId=9&refresh=1m"
                     width="100%"
                     height="300"
                     className="rounded-lg"
@@ -85,7 +85,7 @@ function DashBoard() {
               </div>
               <div className="p-2">
                 <iframe
-                    src="https://seat-mon.sit.kmutt.ac.th/d-solo/aeku7hva3ypdsa/sit-2-floor?orgId=1&from=1746334979895&to=1746335110446&timezone=browser&panelId=1&__feature.dashboardSceneSolo"
+                    src="https://seat-mon.sit.kmutt.ac.th/d-solo/aeku7hva3ypdsa/sit-2-floor?orgId=1&amp;theme=light&amp;panelId=1&refresh=1m"
                     width="100%"
                     height="200"
                     className="rounded-lg"
@@ -105,7 +105,7 @@ function DashBoard() {
               </div>
               <div className="p-2">
                 <iframe
-                    src="https://seat-mon.sit.kmutt.ac.th/d-solo/aeku7hva3ypdsa/sit-2-floor?orgId=1&from=1746334979895&to=1746335110446&timezone=browser&panelId=2&__feature.dashboardSceneSolo"
+                    src="https://seat-mon.sit.kmutt.ac.th/d-solo/aeku7hva3ypdsa/sit-2-floor?orgId=1&amp;theme=light&amp;panelId=2&refresh=1m"
                     width="100%"
                     height="200"
                     className="rounded-lg"
@@ -126,7 +126,7 @@ function DashBoard() {
               </div>
               <div className="p-2">
                 <iframe
-                    src="https://seat-mon.sit.kmutt.ac.th/d-solo/aeku7hva3ypdsa/sit-2-floor?orgId=1&from=1746334979895&to=1746335110446&timezone=browser&panelId=7&__feature.dashboardSceneSolo"
+                    src="https://seat-mon.sit.kmutt.ac.th/d-solo/aeku7hva3ypdsa/sit-2-floor?orgId=1&amp;theme=light&amp;panelId=7&refresh=1m"
                     width="100%"
                     height="200"
                     className="rounded-lg"
@@ -147,7 +147,7 @@ function DashBoard() {
               </div>
               <div className="p-2">
                 <iframe
-                    src="https://seat-mon.sit.kmutt.ac.th/d-solo/aeku7hva3ypdsa/sit-2-floor?orgId=1&from=1746334979895&to=1746335110446&timezone=browser&panelId=6&__feature.dashboardSceneSolo"
+                    src="https://seat-mon.sit.kmutt.ac.th/d-solo/aeku7hva3ypdsa/sit-2-floor?orgId=1&amp;theme=light&amp;panelId=6&refresh=1m"
                     width="100%"
                     height="200"
                     className="rounded-lg"
@@ -168,7 +168,7 @@ function DashBoard() {
               </div>
               <div className="p-2">
                 <iframe
-                    src="https://seat-mon.sit.kmutt.ac.th/d-solo/aeku7hva3ypdsa/sit-2-floor?orgId=1&from=1746334979895&to=1746335110446&timezone=browser&panelId=5&__feature.dashboardSceneSolo"
+                    src="https://seat-mon.sit.kmutt.ac.th/d-solo/aeku7hva3ypdsa/sit-2-floor?orgId=1&amp;theme=light&amp;panelId=5&refresh=1m"
                     width="100%"
                     height="200"
                     className="rounded-lg"
@@ -189,7 +189,7 @@ function DashBoard() {
               </div>
               <div className="p-2">
                 <iframe
-                    src="https://seat-mon.sit.kmutt.ac.th/d-solo/aeku7hva3ypdsa/sit-2-floor?orgId=1&from=1746334979895&to=1746335110446&timezone=browser&panelId=4&__feature.dashboardSceneSolo"
+                    src="https://seat-mon.sit.kmutt.ac.th/d-solo/aeku7hva3ypdsa/sit-2-floor?orgId=1&amp;theme=light&amp;panelId=4&refresh=1m"
                     Bricks width="100%"
                     height="200"
                     className="rounded-lg"
@@ -210,8 +210,7 @@ function DashBoard() {
               </div>
               <div className="p-2">
                 <iframe
-                    src="https://seat-mon.sit.kmutt.ac.th/d-solo/aeku7hva3ypdsa/sit-2-floor?orgId=1&from=1746334979895&to=1746335110446&timezone=browser&panelId=3&__feature.dashboardSceneSolo"
-                    src="https://seat-mon.sit.kmutt.ac.th/d-solo/aeku7hva3ypdsa/sit-2-floor?orgId=1&from=1746334979895&to=1746335110446&timezone=browser&panelId=8&__feature.dashboardSceneSolo"
+                    src="https://seat-mon.sit.kmutt.ac.th/d-solo/aeku7hva3ypdsa/sit-2-floor?orgId=1&amp;theme=light&amp;panelId=3&refresh=1m"
                     width="100%"
                     height="200"
                     className="rounded-lg"
@@ -230,7 +229,7 @@ function DashBoard() {
               </div>
               <div className="p-2">
                 <iframe
-                    src="https://seat-mon.sit.kmutt.ac.th/d-solo/aeku7hva3ypdsa/sit-2-floor?orgId=1&from=1746334979895&to=1746335110446&timezone=browser&panelId=8&__feature.dashboardSceneSolo"
+                    src="https://seat-mon.sit.kmutt.ac.th/d-solo/aeku7hva3ypdsa/sit-2-floor?orgId=1&amp;theme=light&amp;panelId=8&refresh=1m"
                     width="100%"
                     height="200"
                     className="rounded-lg"
